@@ -1,14 +1,16 @@
 import PropTypes from 'prop-types';
+import { UseData, UserSpan } from './User.styled';
 
 export const User = ({ name, email }) => {
+  const isTrue = email.endsWith('biz');
   return (
     <>
-      <p>
-        Name: <span>{name}</span>
-      </p>
-      <p>
-        Email: <span>{email}</span>
-      </p>
+      <UseData>
+        Name: <UserSpan>{name}</UserSpan>
+      </UseData>
+      <UseData>
+        Email: <UserSpan isRed={isTrue}>{email}</UserSpan>
+      </UseData>
     </>
   );
 };

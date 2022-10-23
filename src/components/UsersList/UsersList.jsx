@@ -14,7 +14,7 @@ export const UsersList = ({ users }) => {
 };
 
 UsersList.propTypes = {
-  Users: PropTypes.arrayOf(
+  users: PropTypes.arrayOf(
     PropTypes.shape({
       name: PropTypes.string.isRequired,
       email: PropTypes.string.isRequired,
