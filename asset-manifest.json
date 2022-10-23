@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Shapik07/blanded_3_1.git/static/css/main.b280c105.css",
-    "main.js": "/Shapik07/blanded_3_1.git/static/js/main.99450f9c.js",
+    "main.css": "/Shapik07/blanded_3_1.git/static/css/main.94a30f14.css",
+    "main.js": "/Shapik07/blanded_3_1.git/static/js/main.12b0a64d.js",
     "index.html": "/Shapik07/blanded_3_1.git/index.html",
-    "main.b280c105.css.map": "/Shapik07/blanded_3_1.git/static/css/main.b280c105.css.map",
-    "main.99450f9c.js.map": "/Shapik07/blanded_3_1.git/static/js/main.99450f9c.js.map"
+    "main.94a30f14.css.map": "/Shapik07/blanded_3_1.git/static/css/main.94a30f14.css.map",
+    "main.12b0a64d.js.map": "/Shapik07/blanded_3_1.git/static/js/main.12b0a64d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b280c105.css",
-    "static/js/main.99450f9c.js"
+    "static/css/main.94a30f14.css",
+    "static/js/main.12b0a64d.js"
   ]
 }
